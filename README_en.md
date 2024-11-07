@@ -27,7 +27,7 @@ how each tag functions and how styling can be applied to them.
 - [GitHub Pages](https://pages.github.com/) (for free site hosting).
 
 ## Folder Structure in the Repository
-
+```
 beginner-quiz-structure/      # Repository
 ├── Quiz_Structure/           # Main Folder
 │   ├── index.html            # Main Page
@@ -38,7 +38,7 @@ beginner-quiz-structure/      # Repository
             ├── font/         # Font Subfolder         
 │                     
 └── README.md
-
+```
 ## Note
 
 This project does not use any programming language to enable interaction between the user and the site when the form is submitted. 
