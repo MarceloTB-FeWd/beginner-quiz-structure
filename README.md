@@ -27,7 +27,7 @@ ter o entendimento do comportamento de cada tag utilizada e como pode ser realiz
 - [GitHub Pages](https://pages.github.com/) (para hospedar o site de maneira gratuita).
 
 ## Estruturação das pastas no repositório
-
+```
 beginner-quiz-structure/      # Repositório
 ├── Estrutura_Questionario/   # Pasta Principal
 │   ├── index.html            # Página principal
@@ -38,9 +38,7 @@ beginner-quiz-structure/      # Repositório
             ├── font/         # Subpasta da fonte         
 │                     
 └── README.md
-
+```
 ## Observação
 
-O projeto não possui a utilização de nenhuma linguagem de programação para realizar a 
-interação do usuário com o site, quando o mesmo envia o formulário. Nesse caso, não vai para lugar nenhum, pois não existe a busca por
-nenhum banco de dados via requisição de alguma API.
+O projeto não possui a utilização de nenhuma linguagem de programação para realizar a interação do usuário com o site, quando o mesmo envia o formulário. Nesse caso, não vai para lugar nenhum, pois não existe a busca por nenhum banco de dados via requisição de alguma API.
